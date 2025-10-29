@@ -62,7 +62,10 @@ Then open the notebooks in `notebooks/`.
 > Tip: if you use VS Code, install the Julia and Python extensions and open the folder as a workspace.
 
 
+## Sponsors: 
 
+
+---
 ## How to cite
 
 
