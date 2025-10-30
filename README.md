@@ -27,16 +27,7 @@ Tensor network tools for turning arbitrary state vectors into Matrix Product Sta
 
 ---
 
-## Quickstart
-
-### 1) Clone and enter
-
-```bash
-git clone https://github.com/AryaHG/MPS_Project.git
-cd MPS_Project
-```
-
-### 2) Environments
+##  Environments
 
 This repo currently uses Jupyter notebooks. Two stacks appear across notebooks:
 
@@ -51,15 +42,8 @@ This repo currently uses Jupyter notebooks. Two stacks appear across notebooks:
   * Python ≥ 3.10
   * `qiskit`
 
-You can launch with:
 
-```bash
-jupyter lab
-```
-
-Then open the notebooks in `notebooks/`.
-
-> Tip: if you use VS Code, install the Julia and Python extensions and open the folder as a workspace.
+---
 
 
 ## Sponsors: 
